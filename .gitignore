@@ -1,0 +1,12 @@
+# Compiled Java
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs & temp
+*.log
+*.dat
+temp/
+savegames/
